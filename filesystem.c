@@ -3,7 +3,6 @@
 #include "filesystem.h"
 #include "esp_spiffs.h"
 #include "esp_log.h"
-#include <esp_event.h>
 #include <dirent.h>
 #include "cJSON.h"
 
